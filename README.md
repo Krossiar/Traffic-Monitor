@@ -1,5 +1,5 @@
 ## <a name="Usage"></a>  Usage
-1. Clone this repository.
+1. Clone this Repository.
 ```bash
   git clone https://github.com/Krossiar/Traffic-Monitor.git
 ```
